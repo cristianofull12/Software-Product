@@ -28,14 +28,14 @@ git clone https://github.com/xxxxxxxxxxxxxxxxxxxxx
 ```
 
 - Abrir o projeto no vscode ou na IDE de preferencia 
-- Instalar as ferramentas necessárias:
+- Instalar dependencias:
 - Entity Framework - a nível de máquina
 ```bash
 dotnet tool install --global dotnet-ef --version 6.0.5
 ```
 - SqlServer - Pacote a nível de projeto
 ```bash
-Install Package Microsoft.EntityFrameworkCore.SqlServer --version 6.0.5
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 6.0.5
 ```
 - Design - Pacote a nível de projeto
 ```bash
