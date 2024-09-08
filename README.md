@@ -6,7 +6,7 @@
 Este projeto tem como objetivo a criação de um CRUD com 3 camadas (front/back/banco), onde será entreque dividido em 3 AC´s e uma prova final. 
 
 - AC1 - Será implementado a funcionalidade de inserção de um registro no banco de dados.
-- AC2 - Será implementado a funcionalidade de busca de um registro no banco de dados.
+- AC2 - Será implementado a funcionalidade de listar um registro no banco de dados.
 - AC3 - Será implementado a funcionalidade de atualização de um registro no banco de dados.
 - Prova - Será implementado a funcionalidade de exclusão de um registro no banco de dados.
 
