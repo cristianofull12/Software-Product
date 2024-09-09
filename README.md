@@ -24,7 +24,7 @@ Pré-requisitos: .Net 6.0.5 (questão de compatibilidade)
 
 ## Clonar o repositório
 ```bash
-git clone https://github.com/xxxxxxxxxxxxxxxxxxxxx
+git clone https://github.com/cristianofull12/Software-Product/tree/master
 ```
 
 - Abrir o projeto no vscode ou na IDE de preferencia 
